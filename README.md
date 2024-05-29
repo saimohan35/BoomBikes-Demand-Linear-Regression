@@ -14,7 +14,7 @@ A US bike-sharing provider BoomBikes wants to understand the factors on which th
 
 ## General Information
 
-# Objective: Building a multiple linear regression model for the prediction of demand for shared bikes
+#### Objective: Building a multiple linear regression model for the prediction of demand for shared bikes
 
 It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
 
