@@ -42,4 +42,4 @@ It will be used by the management to understand how exactly the demands vary wit
 - Learnings from this course helped to complete this study.
 
 ## Contact
-Created by Sai Mohan Reddy Neelam [@saimohan35] - feel free to contact me!
+Created by [Sai Mohan Reddy Neelam](https://github.com/saimohan35) - feel free to contact me!
